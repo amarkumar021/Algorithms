@@ -23,13 +23,14 @@
         <option name="title" value="Current Branch" />
       </GitPushTagMode>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1PaVPHPSlrbrw6Z1eN7unWGlwMR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="G:/IntelliJ" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">

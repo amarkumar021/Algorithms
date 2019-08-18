@@ -9,7 +9,7 @@ public class FibonacciRecursion {
         System.out.println("Enter number:");
         int n = sc.nextInt();
         int f = fibonacci(n);
-        System.out.println(f);
+        System.out.println("Result" + f);
     }
 
     private static int fibonacci(int n) {
